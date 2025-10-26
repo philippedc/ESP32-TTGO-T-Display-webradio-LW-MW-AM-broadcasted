@@ -2,6 +2,8 @@ Here is a device to make old radios alive again!
 
 It is the simplest possible!
 
+<img width="880" height="542" alt="AM transmitter diagram" src="https://github.com/user-attachments/assets/25f5cf2b-6bff-43a5-8cb5-dba886002823" />
+
 Web radio are received by wifi, then the analog audio signal is PWMed at a radio frenquency. 
 
 The analog audio is 8 bits defined; but it is enough for a last century radio player!
@@ -17,3 +19,10 @@ The antenna can be a simple wire, or an old antenna frame like the one I use. Th
 The TTGO T-Display offers the connection for a Lithium battery, so the transmitter is a portable device.
 
 Take care of the IDE, Expressif, and Audio library version.
+
+![20251026_174141](https://github.com/user-attachments/assets/492d1371-a821-48fd-be48-b808be0cd142)
+![20251026_174134](https://github.com/user-attachments/assets/32bac4fa-da4a-4db5-8ed6-d6e133c85555)
+![20251026_174154](https://github.com/user-attachments/assets/2f2d9e73-a5f1-486c-8b44-c53b7b297f54)
+
+
+

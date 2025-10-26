@@ -1,0 +1,19 @@
+Here is a device to make old radios alive again!
+
+It is the simplest possible!
+
+Web radio are received by wifi, then the analog audio signal is PWMed at a radio frenquency. 
+
+The analog audio is 8 bits defined; but it is enough for a last century radio player!
+
+Due to the PWM characteritics of the ESP32, for a 8 bits definition, the PWM frequency must be under 300kHz. 
+
+So the transitter looks like more for a LW reception than MW. Nevertheless, the output is a square signal, so the harmonic 2 and 3 can be listened on MW.
+
+The power output is so ridiculous with a power supply of 3.3V that you will not disturb your neighbors.
+
+The antenna can be a simple wire, or an old antenna frame like the one I use. The distance between the antenna frame and the radio is less than 1 meter.
+
+The TTGO T-Display offers the connection for a Lithium battery, so the transmitter is a portable device.
+
+Take care of the IDE, Expressif, and Audio library version.

@@ -1,8 +1,11 @@
 Here is a device to make old radios alive again!
 
 There are 2 versions:
+
 the V0 or V1 it is an all-in-one transmitter with an ESP32, for a very low power transmitter,
+
 the V2 it is a project with a separate modulator and amplifier, much more powerfull. For the description of the V2 version see the according pdf file.
+
 
 Below it is the first version, the simpliest version all-in-one. 
 

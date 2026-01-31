@@ -1,10 +1,10 @@
 Here is a device to make old radios alive again!
 
 There are 2 versions:
-<V2 it is an all-in-one transmitter with an ESP32, for a very low pomer transmitter,
->V2 it is a project with a separate modulator and amplifier.
+the V0 or V1 it is an all-in-one transmitter with an ESP32, for a very low pomer transmitter,
+the V2 it is a project with a separate modulator and amplifier. For the description of the V2 version see the according pdf file.
 
-Below it is the first version, the simpliest version all-in-one. For the description of the >V2 see the according pdf file.
+Below it is the first version, the simpliest version all-in-one. 
 
 <img width="880" height="542" alt="AM transmitter diagram" src="https://github.com/user-attachments/assets/25f5cf2b-6bff-43a5-8cb5-dba886002823" />
 
